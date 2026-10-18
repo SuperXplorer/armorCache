@@ -1,6 +1,6 @@
 # armorCache
 
-armorCache is a python script dedicated to pulling market values off of TornCity's item market using API calls to determine profitability in regards to opening armor caches.
+armorCache is a python tool dedicated to pulling market values off of TornCity's item market using API calls to determine profitability in regards to opening armor caches.
 
 Armor Caches are a type of lootbox where a random drop will be rolled each time you open one. It is assumed to be I.I.D. and odds for each pull are published https://www.torn.com/rules.php#tab=odds_disclosure
 
